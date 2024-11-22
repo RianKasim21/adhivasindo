@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card-modul {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        border-radius: var(--rounded-box, 1rem);
+};
