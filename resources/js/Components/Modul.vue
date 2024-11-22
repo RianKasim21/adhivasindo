@@ -50,7 +50,7 @@
                 <div class="text-sm p-3 text-black">
                     <p>Pemograman Frontend Modern Dengan React dan Angular</p>
                 </div>
-                <div class="bg-yellow-300 text-sm p-3 border-b border-t border-gray-400 text-black">
+                <div class="bg-white text-sm p-3 border-b border-t border-gray-400 text-black">
                     <p>Pengembangan API Bertstandar Industri dengan GraphQL dan REST</p>
                 </div>
                 <div class="text-sm p-3 text-black">
@@ -74,7 +74,7 @@
                 <div class="text-sm p-3 text-black">
                     <p>Pemograman Frontend Modern Dengan React dan Angular</p>
                 </div>
-                <div class="bg-yellow-300 text-sm p-3 border-b border-t border-gray-400 text-black">
+                <div class="bg-white text-sm p-3 border-b border-t border-gray-400 text-black">
                     <p>Pengembangan API Bertstandar Industri dengan GraphQL dan REST</p>
                 </div>
                 <div class="text-sm p-3 text-black">
